@@ -4,8 +4,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pizza61/nougat.svg?style=for-the-badge)
 ![GitHub tag](https://img.shields.io/github/tag/pizza61/nougat.svg?style=for-the-badge)
 
-## Nougat
-Nougat to bot na Discorda. Posiada wiele fajnych funkcji, w tym ekonomie, Sadownictwo i wiele innych.
+## Nougatter
+Nougatter to zmodyfikowany bot na Discorda. Posiada wiele fajnych funkcji, w tym ekonomie, Sadownictwo i wiele innych.
 
 * [strona bota](https://pizza61.github.io/nougat)
 * [Link do bota hostowanego przeze mnie](https://discordapp.com/api/oauth2/authorize?client_id=429587398511427584&permissions=201346048&scope=bot)
